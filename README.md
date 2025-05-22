@@ -23,7 +23,8 @@ Tengo experiencia trabajando con estas tecnologías en distintos proyectos, tant
 ### 💾 Sistemas Operativos Favoritos
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=android"/>
-  <img src="https://skillicons.dev/icons?i=debian,windows" height="50" alt="operating systems" />
+  <img src="https://skillicons.dev/icons?i=debian,windows,apple" height="50" alt="operating systems" />
+  
 </div>
 
 ---
