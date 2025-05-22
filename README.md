@@ -29,10 +29,9 @@ Tengo experiencia trabajando con estas tecnologías en distintos proyectos, tant
 ---
 
 ### 💡 Actualmente Aprendiendo
-- 🛠️ Arquitecturas avanzadas en Angular y SpringBoot.js
+- 🛠️ Arquitecturas basicas en Angular y SpringBoot.js
 - ⚡ Mejores prácticas de desarrollo y patrones de diseño
-- 📦 Integración y despliegue continuo con Docker y CI/CD
-- 🏗️ Uso de la aplicación Revit para diseño y modelado
+
 
 ---
 
